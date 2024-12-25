@@ -1,4 +1,4 @@
-# ecom-backend-keycloak
+# ecom-backend-secured
 
 This repository demonstrates how to interact with Keycloak for authentication and token management in an e-commerce backend application. Below are the examples for obtaining an access token using different flows.
 
